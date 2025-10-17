@@ -1,4 +1,4 @@
-// main.dart 파일 내용
+// main.dart 파일 내용.
 //??
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
