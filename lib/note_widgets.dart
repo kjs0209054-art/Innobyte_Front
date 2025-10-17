@@ -1,4 +1,4 @@
-// note_widgets.dart 파일 내용 .
+// note_widgets.dart 파일 내용 .ㅇ
 
 import 'package:flutter/material.dart';
 

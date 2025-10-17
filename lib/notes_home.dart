@@ -1,4 +1,4 @@
-// notes_home.dart 파일 내용 /.
+// notes_home.dart 파일 내용 /.ㅇ
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
